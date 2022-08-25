@@ -1,2 +1,2 @@
-# Face_detection
-Face_detection
+# Calculator with display history function
+Calculator with display history function
